@@ -1,4 +1,4 @@
 # DEMO
 First github respository
 <br>
-Author - Naman 
+Author - Naman Bichpuriya
